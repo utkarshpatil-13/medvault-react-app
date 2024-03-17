@@ -23,7 +23,7 @@ function Header() {
     <div className='flex justify-around mt-4 shadow-lg shadow-slate-200 pb-4'>
 
         <div className='text-3xl font-bold p-3 text-regal-blue'>
-          MedValut
+          MedVault
         </div>
 
         <nav className="">
